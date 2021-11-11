@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056314274274",
+    "project_id": "compify6",
+    "storage_bucket": "compify6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056314274274:android:d75d5d412ae11eed4c89bb",
+        "android_client_info": {
+          "package_name": "com.princeappstudio.compify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056314274274-fd1q4164io019ksr1017lu49j1jtmdpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjSNfJy7ZWFfzBP-G7pGKV7W7c3TI_lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056314274274-fd1q4164io019ksr1017lu49j1jtmdpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
